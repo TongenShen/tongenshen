@@ -1,3 +1,6 @@
+![background](./files/background.png)
+
+
 # Hi 👋 I'm Aster
 > Electronic Information Engineering Student | Embedded & Hardware Hobbyist | Open-source Tool Maker
 
